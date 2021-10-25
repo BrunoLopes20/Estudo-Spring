@@ -1,0 +1,6 @@
+2021-10-25 18:09:24 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM ESTOQUE ID ESTOQUE[*]"; SQL statement:
+SELECT * FROM ESTOQUE ID ESTOQUE [42000-200]
+2021-10-25 18:09:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM ESTOQUE ID ESTOQUE[*] ESTOQUE"; SQL statement:
+SELECT * FROM ESTOQUE ID ESTOQUE ESTOQUE [42000-200]
